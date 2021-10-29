@@ -3,4 +3,4 @@
 
 You can clone repository and type npm install to console, then you ready to go.
 
-Heroku Deploy Example : https://warm-hamlet-30640.herokuapp.com/
+Heroku Deploy Example : https://oguzhan-cevik.herokuapp.com/
