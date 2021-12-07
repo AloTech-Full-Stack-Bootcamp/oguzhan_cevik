@@ -1,7 +1,7 @@
 import random
 
 
-def random_number_generator_while(n, l):
+def random_number_generator(n, l):
     randList = []
 
     if n < (10**l-(10 ** (l - 1))+1):#Checks if l is greater than n number of digits
@@ -17,7 +17,7 @@ def random_number_generator_while(n, l):
         return
 
 
-print(list(random_number_generator_while(9, 1)))
+print(list(random_number_generator(9, 1)))
 
 print('second assigment-------------------------------------')
 
